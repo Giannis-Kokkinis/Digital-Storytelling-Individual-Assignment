@@ -13,7 +13,6 @@
 
 
 # 1st Deliverable
-![Στιγμιότυπο οθόνης (27)](https://user-images.githubusercontent.com/101402260/227616538-867cffc9-7b8b-4a41-8faf-afd8145cc656.png)
 
 
 
