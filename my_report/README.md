@@ -13,8 +13,15 @@
 
 
 # 1st Deliverable
-
-
+Για άρχη πήρα την πόλη απο το unit 3 και την διαμόρφωσα ετσί ωστε να βάλω τα καινούργια κτήρια.
+![Στιγμιότυπο οθόνης (32)](https://user-images.githubusercontent.com/101402260/227745373-1250fbea-33cc-46d8-b670-0b6fd4c7a895.png)
+Για να προσθέσω καινουργια αντικείμενα μπήκα [έδω](https://sketchfab.com/feed) ,έπειτα το έβαλα στον φάκελο assets ,εβαλα τα items και τα διαμορφωποίησα στον χώρο.
+![Στιγμιότυπο οθόνης (35)](https://user-images.githubusercontent.com/101402260/227745584-f077f793-8eb8-419a-a776-cc314439889d.png)
+![Στιγμιότυπο οθόνης (34)](https://user-images.githubusercontent.com/101402260/227745456-9e34d567-7c0b-4d41-8036-db0995b800e2.png)
+Τέλος για το τελευταίο σκέλος της άσκησης έβαλα χαρακτήρες απο  [έδω](https://sketchfab.com/feed) , και animation [έδω](https://www.mixamo.com/#/)
+![Στιγμιότυπο οθόνης (36)](https://user-images.githubusercontent.com/101402260/227745699-23fffb19-05ed-49ea-9b43-7cd9ea82fee4.png)
+μετέπειτα τα έβαλα στους φακέλους ,τοποθέτησα τον χαρακτήρα στο χώρο και το έσυρα στο timeline έκανα λοοπ ανδ δθπλιψατε για να κινείται σε όλο το δίαστημα και έπειτα έκανα render.
+![Στιγμιότυπο οθόνης (37)](https://user-images.githubusercontent.com/101402260/227745841-34178d8b-56bc-4691-8cbf-53b320918741.png)
 
 
 # 2nd Deliverable
