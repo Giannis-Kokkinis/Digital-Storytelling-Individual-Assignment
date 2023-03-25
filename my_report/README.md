@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
+### First and Last Name: Giannis Kokkinis
 ### University Registration Number: dpsd19055
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### GitHub Personal Profile: https://github.com/Giannis-Kokkinis
+### Digital-Storytelling-Individual-Assignment: https://github.com/Giannis-Kokkinis/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
