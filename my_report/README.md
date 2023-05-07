@@ -25,6 +25,11 @@
 
 
 # 2nd Deliverable
+-Για το πρώτο σκέλος της άσκησης δεν δούλευε το cinema machine απο το package manager  στο αρχείο zip που μας δίνατε και το έκανα στο δικό μου απο την προηγούμενη άσκηση. Αφού το κατέβασα πάτησα create virtual camera και έβαλα 3 cm vcam τις επελεξα και τις έκανα solo έπειτα τις έβαλα στο timeline πάτησα rec -> δεξί click ->add key.
+![Στιγμιότυπο οθόνης (46)](https://user-images.githubusercontent.com/101402260/236678739-1eeea9d5-faa3-4be5-80ea-2b2a21823bec.png)
+Ύστερα έβαλα τις κάμερες μέσα στο timeline και το έτρεξα.
+
+![Στιγμιότυπο οθόνης (49)](https://user-images.githubusercontent.com/101402260/236678941-8e54b666-e504-4c1c-b49d-5e0950a53636.png)
 
 
 # 3rd Deliverable 
